@@ -1,2 +1,0 @@
-# reactReduxTodoList
-Created with CodeSandbox
